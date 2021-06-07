@@ -1,0 +1,26 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.templates{
+	width:80%;
+	margin: 70px auto;
+	text-align:center;
+	padding:20px;
+}
+
+.templates ul li{
+	list-style:none;
+	display:inline;
+	padding:20px;
+}
+
+.templates ul li a{
+	text-decoration:none;
+	color: #ffffff;
+	padding:20px;
+	background-color:crimson;
+	border-radius: 5px;
+	font-family: sans-serif;
+}

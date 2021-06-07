@@ -1,0 +1,102 @@
+*{
+	margin: 0;
+	padding:0;
+}
+
+.back{
+	background-color:lightgreen;
+}
+
+/*Top Part*/
+.top{
+	background-color: lightgray;
+	text-align:center;
+	padding: 50px;
+}
+
+/*Header Part*/
+.header{
+	background-color: cadetblue;
+	text-align:center;
+	padding: 100px;
+	margin: 15px 0px;
+}
+
+/*Navigation Part*/
+.nav{
+    padding: 20px;
+    text-align: center;
+    font-family: cursive;
+}
+.nav ul li{
+	list-style:none;
+	display:inline;
+}
+
+.nav ul li a{
+	text-decoration:none;
+	color:#ffffff;
+	background-color:crimson;
+    padding: 20px;
+    margin-left: 20px;
+}
+
+
+
+/*Content Part*/
+.content{
+	margin:15px 0px;
+	overflow: hidden;
+}
+.content .con1{
+	background-color: gray;
+	height:400px;
+	width:59%;
+	float:left;
+}
+.content .con2{
+	height:400px;
+	width:39%;
+	overflow:hidden;
+	float:right;
+}
+.con2 .sidebar1{
+	background-color:lightgray;
+	height:150px;
+}
+.con2 .sidebar2{
+	background-color:lightgray;
+	height:200px;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Footer Part*/
+.footer{
+	background-color: maroon;
+	height: 75px;
+}
+.footer h3{
+	text-align: center;
+	color: #ffffff;
+}
